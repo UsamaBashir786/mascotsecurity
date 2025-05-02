@@ -24,7 +24,7 @@
         <!--/.sidebar-area-->
 
         <div id="preloader">
-            <div class="loading" data-loading-text="Runok"></div>
+            <div class="loading" data-loading-text="Mascot"></div>
         </div>
 
     <div id="smooth-wrapper">
