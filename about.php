@@ -7,7 +7,7 @@
 
     <body>
         <!-- header-area-start -->
-        <?php include 'includes/css-links.php'; ?>
+        <?php include 'includes/navbar.php'; ?>
         <!-- Main Header -->
 
         <div id="popup-search-box">

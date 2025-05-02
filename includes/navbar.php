@@ -11,62 +11,21 @@
         <div class="header-menu-wrap">
           <div class="mobile-menu-items">
             <ul>
-              <li class="menu-item-has-children active mega-menu">
+              <li class="active">
                 <a href="index.php">Home</a>
-                <ul>
-                  <li><a href="index.php">Web Design</a></li>
-                  <li><a href="index-2.php">Creative Studio</a></li>
-                  <li><a href="index-3.php">Web Development</a></li>
-                  <li><a href="index-4.php">Modern Agency</a></li>
-                  <li><a href="index-5.php">It Solution</a></li>
-                  <li><a href="index-6.php">Digital Agency</a></li>
-                  <li><a href="index-7.php">Corporate Agency</a></li>
-                  <li><a href="index-8.php">Web Agency</a></li>
-                  <li><a href="index-9.php">Creative Agency</a></li>
-                  <li><a href="index-10.php">Digital Studio</a></li>
-                  <li><a href="index-11.php">Startup Agency</a></li>
-                  <li><a href="index-12.php">It Studio</a></li>
-                </ul>
               </li>
-              <li class="menu-item-has-children">
-                <a href="#">Pages</a>
-                <ul>
-                  <li><a href="about.php">About</a></li>
-                  <li><a href="team.php">Team</a></li>
-                  <li><a href="team-details.php">Team Details</a></li>
-                  <li><a href="project.php">Portfolio</a></li>
-                  <li><a href="project-details.php">Portfolio Details</a></li>
-                  <li><a href="pricing.php">Pricing Plans</a></li>
-                  <li><a href="faq.php">Faq</a></li>
-                  <li><a href="error.php">404 Error</a></li>
-                </ul>
+              <li>
+                <a href="about.php">About</a>
               </li>
-              <li class="menu-item-has-children">
+              <li>
                 <a href="service.php">Services</a>
-                <ul>
-                  <li><a href="service.php">Service</a></li>
-                  <li><a href="service-details.php">Service Details</a></li>
-                </ul>
               </li>
-              <li class="menu-item-has-children">
-                <a href="shop.php">Shop</a>
-                <ul>
-                  <li><a href="shop.php">Shop</a></li>
-                  <li><a href="shop-details.php">Shop Details</a></li>
-                  <li><a href="cart.php">Cart</a></li>
-                  <li><a href="wishlist.php">Wishlist</a></li>
-                  <li><a href="checkout.php">Checkout</a></li>
-                </ul>
+              <li>
+                <a href="faq.php">FAQ</a>
               </li>
-              <li class="menu-item-has-children">
-                <a href="blog-grid.php">Blog</a>
-                <ul>
-                  <li><a href="blog-grid.php">Blog Grid</a></li>
-                  <li><a href="blog-grid-2.php">Blog list</a></li>
-                  <li><a href="blog-details.php">Blog Details</a></li>
-                </ul>
+              <li>
+                <a href="contact.php">Contact</a>
               </li>
-              <li><a href="contact.php">Contact</a></li>
             </ul>
           </div>
         </div>

@@ -9,8 +9,8 @@
               <a href="index.php"><img src="assets/img/logo/logo-2.png" alt="logo"></a>
             </div>
           </div>
-          <p class="mb-20">Centric aplications productize before front end vortals visualize front end is results and value added</p>
-          <h4 class="title">WE ARE AVAILABLE <span>Mon-Sat: 09.00 am to 6.30 pm</span></h4>
+          <p class="mb-20">Professional security services tailored to your needs. We provide 24/7 security solutions to protect what matters most.</p>
+          <h4 class="title">WE ARE AVAILABLE <span>24/7 SECURITY SERVICE</span></h4>
         </div>
       </div>
       <div class="col-lg-3 col-md-6">
@@ -19,10 +19,11 @@
             <h3 class="widget-title">Useful Links</h3>
           </div>
           <ul class="footer-list">
+            <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About Us</a></li>
-            <li><a href="project.php">Our Gallery</a></li>
             <li><a href="service.php">Our Services</a></li>
-            <li><a href="team.php">Our Team</a></li>
+            <li><a href="faq.php">FAQ</a></li>
+            <li><a href="contact.php">Contact</a></li>
           </ul>
         </div>
       </div>
@@ -32,9 +33,11 @@
             <h3 class="widget-title">Contact Us</h3>
           </div>
           <ul class="address-list">
-            <li><a href="mailto:support@agency.com">support@agency.com</a></li>
-            <li><a href="tel:+2585492153215">+258 (549) 2158 3215</a></li>
-            <li>2589 Dorland Street Luke INUA <br> Berlin, Germany</li>
+            <li><a href="mailto:info@mascotsecurity.co.uk">info@mascotsecurity.co.uk</a></li>
+            <li><a href="tel:01617061820">0161 706 1820</a> (Main Office)</li>
+            <li><a href="tel:03301334609">0330 133 4609</a> (Control Room)</li>
+            <li><a href="mailto:Control@mascotsecurity.co.uk">Control@mascotsecurity.co.uk</a> (24/7 Support)</li>
+            <li><a href="https://www.mascotsecurity.co.uk">www.mascotsecurity.co.uk</a></li>
           </ul>
         </div>
       </div>
@@ -54,7 +57,7 @@
           <div class="form-check form-item">
             <input class="form-check-input" type="checkbox" value="" id="man">
             <label class="form-check-label" for="man">
-              I’m okay with getting emails and having
+              I'm okay with getting emails and having
               that tracked to improve my experience
             </label>
           </div>
@@ -66,7 +69,7 @@
     <div class="container">
       <div class="row copyright-content">
         <div class="col-md-6">
-          <p>© 2024 Runok. All Rights Reserved.</p>
+          <p>© 2025 Mascot Security. All Rights Reserved.</p>
         </div>
         <div class="col-md-6">
           <ul class="social-list">

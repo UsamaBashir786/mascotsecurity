@@ -304,7 +304,7 @@
         </div>
         <!-- ./ running-text -->
 
-        <section class="testimonial-section overflow-hidden">
+        <!-- <section class="testimonial-section overflow-hidden">
             <div class="container">
                 <div class="testi-carousel swiper">
                     <div class="swiper-wrapper">
@@ -378,10 +378,10 @@
                     <div class="swiper-pagination"></div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- ./ testimonial-section -->
 
-        <section class="project-section pt-130 pb-130">
+        <!-- <section class="project-section pt-130 pb-130">
             <div class="container">
                 <div class="project-top heading-space align-items-end fade-wrapper">
                     <div class="section-heading mb-0">
@@ -509,10 +509,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- ./ project-section -->
 
-        <div class="running-text running-1">
+        <!-- <div class="running-text running-1">
             <div class="carouselTicker carouselTicker-nav" data-speed="fast">
                 <ul class="text-anim carouselTicker__list">
                     <li>Digital Solution</li>
@@ -538,7 +538,7 @@
                     <li>Solution</li>
                 </ul>
             </div>
-        </div>
+        </div> -->
         <!-- ./ running-text -->
 
         <div class="running-text">
@@ -570,7 +570,7 @@
         </div>
         <!-- ./ running-text -->
 
-        <section class="blog-section pt-130 pb-130 fade-wrapper">
+        <!-- <section class="blog-section pt-130 pb-130 fade-wrapper">
             <div class="container">
                 <div class="section-heading text-center">
                     <h4 class="sub-heading" data-text-animation="fade-in" data-duration="1.5">NEWS & LATEST UPDATES</h4>
@@ -630,7 +630,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- ./ blog-section -->
 
         <section class="sponsor-section pb-130">

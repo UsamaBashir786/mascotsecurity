@@ -4,7 +4,7 @@
 <meta name="description" content="">
 
 <!-- Site Title -->
-<title>Runok - Web Agency HTML5 Template</title>
+<title>Mascot Security</title>
 
 <!-- Place favicon.ico in the root directory -->
 <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
