@@ -18,3 +18,5 @@
 <link rel="stylesheet" href="assets/css/carouselTicker.css">
 <link rel="stylesheet" href="assets/css/swiper.min.css">
 <link rel="stylesheet" href="assets/css/main.css">
+<!-- Paste this in <head> tag of your HTML -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap" rel="stylesheet">
