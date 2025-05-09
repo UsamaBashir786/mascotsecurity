@@ -3,8 +3,8 @@
     <div class="primary-header-inner">
       <div class="header-logo d-lg-block">
         <a href="index.php">
-          <img class="logo-dark" src="assets/img/logo/logo-2.png" alt="Logo">
-          <img class="logo-light" src="assets/img/logo/logo-3.png" alt="Logo">
+          <img class="logo-dark" src="assets/img/logo/logo-4.png" alt="Logo">
+          <img class="logo-light" src="assets/img/logo/logo-4.png" alt="Logo">
         </a>
       </div>
       <div class="header-right-wrap">
